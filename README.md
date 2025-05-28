@@ -6,18 +6,21 @@ ClearConnect is a mobile application built with Flutter and Firebase, designed f
 
 ### Login Screen
 ![ClearConnect Login Screen](https://github.com/user-attachments/assets/704231ed-1858-43b4-b9fd-e3084d348c77)
+
 *Users can securely log in using their email and password.*
 
 ---
 
 ### Register Screen
 ![ClearConnect Register Screen](https://github.com/user-attachments/assets/f44e74be-4ac4-4010-9f50-03aa9b1f4d25)
+
 *New users can easily create an account to start connecting.*
 
 ---
 
 ### Chat Screen
 ![ClearConnect Chat Interface](https://github.com/user-attachments/assets/25d7daa8-2f57-4157-8f60-8ace1c1c478e)
+
 *Real-time messaging with a clean interface, distinguishing between sent and received messages.*
 
 ---
